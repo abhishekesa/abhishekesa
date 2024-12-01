@@ -1,16 +1,21 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-<!--
-**abhishekesa/abhishekesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Abhishek Esa</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🌌 Exploring the infinite realm of 1s and 0s 🚀 | 💻 Movie buff</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+
+- 🌱 I’m currently learning **Web development**
+
+- 💬 Ask me about **Data structures, algorithms, computer networks, react, js, oops**
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekesa&show_icons=true&locale=en&layout=compact&langs_count=8" alt="esaabhi" /></p>
+
+</body>
+</html>
